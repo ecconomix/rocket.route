@@ -1,0 +1,49 @@
+#map {
+    height: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 75%;
+    margin: 0;
+    padding: 0;
+}
+
+.main-heading {
+    font-family: 'Encode Sans Expanded', sans-serif;
+    font-size: 54px;
+    text-align: center;
+}
+
+.main-input {
+    border: 2px solid black;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    height: 25px;
+    margin: 0 auto;
+    margin-top: 30px;
+    outline: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 25%;
+}
+.map-section {
+    height: 100%;
+}
+.search-btn {
+    width:150px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+footer {
+    position: absolute;
+    bottom:0;
+    width:100%;
+}
+
+footer p {
+    text-align: center;
+}
