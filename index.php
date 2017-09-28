@@ -19,7 +19,7 @@
 <div id="map"></div>
     <form action="index.php" method="post" name="icao-form">
         <input type="text" name="ICAO" id="input-icao" class="main-input">
-        <input type="button" value="Submit" id="btnsubmit" onclick="submitForm()">
+        <input type="button" value="Submit" id="btnsubmit">
     </form>
 </section>
 
